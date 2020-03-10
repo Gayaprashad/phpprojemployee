@@ -1,0 +1,3 @@
+<?php foreach ($empr as $evalue):?>
+          <td><?php echo $evalue?></td>
+        <?php endforeach; ?>
